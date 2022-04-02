@@ -1,0 +1,2 @@
+put proxies in here
+just put some random shit in if you wanna run proxyless
